@@ -9,7 +9,7 @@
         "props",
         "state"
       ],
-      "correctIndex": 1
+      "correctIndex": 3
     },
     {
       "id": 3,
@@ -20,7 +20,7 @@
         "onChange",
         "onForm"
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     },
     {
       "id": 4,
